@@ -7,13 +7,12 @@ function writeCards(name,event){
     }
   return thanksCard;
 }
-
-
-function countDown( count ) {
-  while ( count > 0 ) {
-    console.log( count );
-    count -= 1;
+/*
+function countDown( startingNumber ) {
+  while ( startingNumber > 0 ) {
+    console.log( startingNumber );
+    startingNumber -= 1;
   }
-  console.log( count );
+  console.log( startingNumber );
 }
- 
+ */
