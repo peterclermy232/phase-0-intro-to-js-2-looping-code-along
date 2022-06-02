@@ -8,7 +8,6 @@ function writeCards(name,event){
   return thanksCard;
 }
 
-
 function countDown( count ) {
   while ( count > 0 ) {
     console.log( count );
